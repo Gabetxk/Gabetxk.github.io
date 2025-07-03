@@ -1,6 +1,6 @@
 ---
 title: "Infineon ASPIRE Supply Chain Case Competition 2025"
-excerpt: "Finalist 💯 <br/><img src='/images/Infineon Case Competition Cert.png'>"
+excerpt: "Finalist 💯 <br/><img src='/images/Infineon Case Competition Cert.png' width='500px' height='300px'>"
 collection: portfolio
 ---
 
