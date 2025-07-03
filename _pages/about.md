@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! My name is Gabriel and I am currently a penultimate student pursuing a BEng majoring in Industrial Systems Engineering with a double minor in Data Analytics & Data Engineering at National University of Singapore.
+Hi there! 👋🏻 My name is Gabriel and I am currently a penultimate student pursuing a BEng majoring in Industrial Systems Engineering with a double minor in Data Analytics & Data Engineering at National University of Singapore.
 
 About Me
 ======
