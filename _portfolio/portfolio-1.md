@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Infineon ASPIRE Supply Chain Case Competition 2025 Finalist"
+excerpt: "Short description of portfolio item number 1<br/><img src='images/Infineon Case Competition Cert.png'>"
 collection: portfolio
 ---
 
