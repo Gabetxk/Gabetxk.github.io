@@ -24,5 +24,3 @@ This project builds a scalable retail data pipeline using Python. It extracts da
 - Introduction to ETL methodology
 - Data Cleaning
 - Data Manipulation
-
-[🔗 View the Retail Data Pipeline Notebook](.\notebookcopy.html)
