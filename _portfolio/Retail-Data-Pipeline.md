@@ -6,12 +6,15 @@ collection: portfolio
 
 This project builds a scalable retail data pipeline using Python. It extracts data from CSV files, applies transformations using Pandas, and loads/saves the cleaned data into .csv files.
 
-🔗 [View the Jupyter Notebook on GitHub]([\[_portfolio\Building Retail Data Pipeline (Project)\notebook.ipynb\]](https://github.com/Gabetxk/Gabetxk.github.io/blob/master/_portfolio/Building%20Retail%20Data%20Pipeline%20(Project)/notebook.ipynb))
+🔗 [View the Jupyter Notebook on GitHub](https://github.com/Gabetxk/Gabetxk.github.io/blob/master/_portfolio/Building%20Retail%20Data%20Pipeline%20(Project)/notebook.ipynb)
 
 📁 Project Files:
 - `notebook.ipynb`: Main analysis and pipeline logic
-- `sample datasets/`: grocery_sales.csv , extra_data.parquet
-- `end product/`: clean_data.csv, agg_data.csv
+- `grocery_sales.csv`: Sample dataset of retail sales
+- `extra_data.parquet`: Complementary sample dataset
+- `clean_data.csv`: Final transformed DataFrame
+- `agg_data.csv`: Average sales per week grouped by months (DataFrame)
+- `walmartecomm.jpg`: Sample Image
 
 ## 🛠️ Tools Used
 - Python (Pandas)
@@ -21,3 +24,5 @@ This project builds a scalable retail data pipeline using Python. It extracts da
 - Introduction to ETL methodology
 - Data Cleaning
 - Data Manipulation
+
+[🔗 View the Retail Data Pipeline Notebook](.\notebookcopy.html)
