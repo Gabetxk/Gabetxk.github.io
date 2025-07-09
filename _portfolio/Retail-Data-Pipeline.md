@@ -8,13 +8,14 @@ This project builds a scalable retail data pipeline using Python. It extracts da
 
 🔗 [View the Jupyter Notebook on GitHub](https://github.com/Gabetxk/Gabetxk.github.io/blob/master/_portfolio/Building%20Retail%20Data%20Pipeline%20(Project)/notebook.ipynb)
 
-📁 Project Files:
-- `notebook.ipynb`: Main analysis and pipeline logic
-- `grocery_sales.csv`: Sample dataset of retail sales
-- `extra_data.parquet`: Complementary sample dataset
-- `clean_data.csv`: Final transformed DataFrame
-- `agg_data.csv`: Average sales per week grouped by months (DataFrame)
-- `walmartecomm.jpg`: Sample Image
+## 📁 Project Structure:
+├──portfolio/
+    ├──`notebook.ipynb`: Main analysis and pipeline logic
+    ├── `grocery_sales.csv`: Sample dataset of retail sales
+    ├── `extra_data.parquet`: Complementary sample dataset
+    ├── `clean_data.csv`: Final transformed DataFrame
+    ├── `agg_data.csv`: Average sales per week grouped by months (DataFrame)
+    └── `walmartecomm.jpg`: Sample Image
 
 ## 🛠️ Tools Used
 - Python (Pandas)
