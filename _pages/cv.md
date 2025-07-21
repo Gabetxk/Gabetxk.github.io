@@ -47,15 +47,8 @@ _Pansing Distribution Pte Ltd_ | Jan 2023 – Mar 2023
 
 ---
 
-## Projects
+## Academic Projects
 
 - **Supply Chain Optimisation**: Built linear programming models to minimise operating costs of supply routes from Singapore to China.  
 - **Financial Decision Support Tools**: Developed Excel-based tools for vehicle purchase decisions and retirement plan simulations using @Risk and Monte Carlo techniques.  
 - **Dashboarding**: Created real-time dashboards for operational decision-making.
-
----
-
-## Competitions
-
-- **Finalist, Infineon Aspire Supply Chain Case Competition (2025)**: Applied operations research and machine learning to address supply chain challenges.  
-- **Participant, NUS Datathon (2025)**: Focused on data analytics and visualization challenges organized by the NUS Statistics and Data Analytics Department.  
