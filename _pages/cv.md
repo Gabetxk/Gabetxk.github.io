@@ -51,4 +51,3 @@ _Pansing Distribution Pte Ltd_ | Jan 2023 – Mar 2023
 
 - **Supply Chain Optimisation**: Built linear programming models to minimise operating costs of supply routes from Singapore to China.  
 - **Financial Decision Support Tools**: Developed Excel-based tools for vehicle purchase decisions and retirement plan simulations using @Risk and Monte Carlo techniques.  
-- **Dashboarding**: Created real-time dashboards for operational decision-making.
