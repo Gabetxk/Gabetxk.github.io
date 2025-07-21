@@ -9,36 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.Eng in Industrial Systems Engineering, National University of Singapore, 2027 (Expected)
-  * Minor in Data Analytics
-  * Minor in Data Engineering 
+## Education
 
-Work experience
-======
-* May 2025 - Aug 2025: Technical Services Intern
-  * Company: Mapletree Pte Ltd
-  * Duties included: 
-    1. Creating a real time dynamic report for service report tracking
-    2. Automating email reminders to tenants that have lapsed timeframe for service reports
-    3. Dashboarding for insights relating to business decisions
-    4. Liasing with alternative parties such as tenants and contractors for projects
+**Bachelor of Engineering (B.Eng) in Industrial Systems Engineering**  
+**National University of Singapore** | Expected 2027  
+- Minor in Data Analytics  
+- Minor in Data Engineering  
+- Honours (Highest Distinction), GPA: 4.52  
 
-Skills
-======
-* Python
-* Excel
-* Data Structures and Algorithms
-* Database Management
-* Operations Research
-* SQL / PostgreSQL
-
-Case Competitions
-======
 ---
-title: "Infineon ASPIRE Supply Chain Case Competition 2025"
-excerpt: "Finalist 💯 <br/><img src='/images/Infineon Case Competition Cert.png' width='500px' height='300px'>"
-collection: portfolio
+
+## Work Experience
+
+**Technical Services Intern**  
+_Mapletree Pte Ltd_ | May 2025 – Aug 2025  
+- Created real-time dynamic dashboards for tracking service report submissions using Excel and VBA.  
+- Automated email reminders to tenants on lapsed service report deadlines, reducing manual administrative workload.  
+- Developed business insights dashboards using PowerBI and Excel for contractor concentration risk.  
+- Liaised with tenants and contractors on project-related tasks, gaining exposure to property and facilities management systems.
+
+**Warehouse Assistant**  
+_Pansing Distribution Pte Ltd_ | Jan 2023 – Mar 2023  
+- Assisted in warehouse operations, reducing stock shortages and excess inventory by 30%.  
+- Conducted weekly inventory verifications and ensured accurate data entry for stock movement records.  
+
 ---
-This served as a good experience for applying new found knowledge with regards to machine learning applications as well as data cleaning and manipulation. My team and I were introduced to real world problems currently faced by the supply chain industry and were given the opportunity to attempt to solve the issues through machine learning applications. We started off with first proposing 2 ideas relating to tackling the issue of demand forecasting and the problem of supply chain routes. Demand forecasting was proposed to aid supplier with ensuring proper allocation of orders to keep up with irregular demand, the forecasting was used by integrating a polynomial regression model that takes into account relevant factors as features of the model and we developed the model based of the 
+
+## Skills
+
+- Python (data analysis, automation, basic machine learning)  
+- SQL / PostgreSQL  
+- Microsoft Excel (including VBA), PowerBI  
+- Data Structures and Algorithms  
+- Database Management  
+- Operations Research and Linear Programming  
+- Languages: English, Chinese (Fluent)
+
+---
+
+## Projects
+
+- **Supply Chain Optimisation**: Built linear programming models to minimise operating costs of supply routes from Singapore to China.  
+- **Financial Decision Support Tools**: Developed Excel-based tools for vehicle purchase decisions and retirement plan simulations using @Risk and Monte Carlo techniques.  
+- **Dashboarding**: Created real-time dashboards for operational decision-making.
+
+---
+
+## Competitions
+
+- **Finalist, Infineon Aspire Supply Chain Case Competition (2025)**: Applied operations research and machine learning to address supply chain challenges.  
+- **Participant, NUS Datathon (2025)**: Focused on data analytics and visualization challenges organized by the NUS Statistics and Data Analytics Department.  
