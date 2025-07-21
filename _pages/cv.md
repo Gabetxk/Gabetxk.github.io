@@ -17,6 +17,8 @@ redirect_from:
 - Minor in Data Engineering  
 - Honours (Highest Distinction), GPA: 4.52  
 
+---
+
 ## Work Experience
 
 **Technical Services Intern**  
@@ -31,6 +33,8 @@ _Pansing Distribution Pte Ltd_ | Jan 2023 – Mar 2023
 - Assisted in warehouse operations, reducing stock shortages and excess inventory by 30%.  
 - Conducted weekly inventory verifications and ensured accurate data entry for stock movement records.  
 
+---
+
 ## Skills
 
 - Python (data analysis, basic machine learning)  
@@ -40,6 +44,8 @@ _Pansing Distribution Pte Ltd_ | Jan 2023 – Mar 2023
 - Database Management  
 - Operations Research and Linear Programming  
 - Languages: English, Chinese (Fluent)
+
+---
 
 ## Academic Projects
 
